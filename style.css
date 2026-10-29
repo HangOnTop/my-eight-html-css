@@ -257,7 +257,7 @@ body {
 }
 
 .platform__img{
-    display: block;
+    display: inline;
     justify-items: left;
 }
 
